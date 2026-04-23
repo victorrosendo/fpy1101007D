@@ -21,3 +21,4 @@ numero2 = int(input("ingrese otro numero"))
 suma = numero1 + numero2
 
 print("la suma es", suma)
+#soy un segundo comentario
